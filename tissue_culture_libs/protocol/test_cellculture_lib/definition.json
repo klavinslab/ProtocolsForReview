@@ -1,0 +1,1 @@
+{"name": "Test CellCulture Lib", "category": "Tissue Culture Libs", "inputs": [], "outputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

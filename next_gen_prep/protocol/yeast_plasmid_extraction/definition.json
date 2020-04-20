@@ -1,0 +1,1 @@
+{"name": "Yeast Plasmid Extraction", "category": "Next Gen Prep", "inputs": [{"name": "Yeast Library", "part": null, "array": null, "routing": "L"}], "outputs": [{"name": "Plasmid Library", "part": null, "array": null, "routing": "L"}], "on_the_fly": null}

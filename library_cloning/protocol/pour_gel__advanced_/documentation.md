@@ -1,0 +1,1 @@
+This is the first step in making a PCR fragment and is a precursor to **Run Gel**. The technician pours out a 50 mL 1 percent Agarose Gel in a gel casting tray and leaves it to solidify. 

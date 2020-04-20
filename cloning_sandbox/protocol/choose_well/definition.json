@@ -1,0 +1,1 @@
+{"name": "Choose Well", "category": "Cloning Sandbox", "inputs": [{"name": "New input", "part": null, "array": null, "routing": "X"}, {"name": "RowAndColumn", "part": null, "array": null, "routing": null}], "outputs": [{"name": "New output", "part": true, "array": null, "routing": "X"}], "on_the_fly": null}

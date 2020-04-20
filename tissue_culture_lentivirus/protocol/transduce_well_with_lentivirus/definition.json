@@ -1,0 +1,1 @@
+{"name": "Transduce Well with Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Well", "part": true, "array": false, "routing": "W"}, {"name": "Lentivirus", "part": false, "array": false, "routing": "LV"}], "outputs": [], "on_the_fly": false}

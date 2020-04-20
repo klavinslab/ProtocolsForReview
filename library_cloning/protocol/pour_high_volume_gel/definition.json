@@ -1,0 +1,1 @@
+{"name": "Pour High-Volume Gel", "category": "Library Cloning", "inputs": [{"name": "gel type", "part": null, "array": null, "routing": null}, {"name": "percentage", "part": null, "array": null, "routing": null}], "outputs": [{"name": "gel", "part": null, "array": null, "routing": "G"}], "on_the_fly": null}

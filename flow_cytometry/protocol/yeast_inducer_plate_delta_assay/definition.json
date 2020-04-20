@@ -1,0 +1,1 @@
+{"name": "Yeast Inducer Plate Delta Assay", "category": "Flow Cytometry", "inputs": [{"name": "Strains (8 max)", "part": null, "array": true, "routing": "S"}, {"name": "Inducer and range", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

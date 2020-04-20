@@ -1,0 +1,1 @@
+{"name": "Receive Addgene Plasmid", "category": "Manager", "inputs": [{"name": "Plasmid Addgene Order", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Plasmid Agar Stab", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Make Agro Comp Cell Batch", "category": "Agrobacterium work", "inputs": [{"name": "Num Cells", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Batch", "part": false, "array": false, "routing": "B"}], "on_the_fly": false}

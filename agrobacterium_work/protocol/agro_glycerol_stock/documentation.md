@@ -1,0 +1,1 @@
+Create a glycerol stock from an overnight culture of an Agrobacterium strain

@@ -1,0 +1,1 @@
+{"name": "Purchase Request", "category": "Manager", "inputs": [{"name": "Quantity", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Ordered Item", "part": null, "array": null, "routing": "O"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Normalize & Pool Indexed cDNA Libraries", "category": "Illumina NGS", "inputs": [{"name": "Indexed DNA Library", "part": null, "array": null, "routing": "cDNA"}, {"name": "Normalize to (nM)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Indexed DNA Library", "part": null, "array": null, "routing": "cDNA"}], "on_the_fly": null}

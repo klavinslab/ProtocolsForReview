@@ -1,0 +1,1 @@
+Prepares a batch of competent cells (15 aliqouts)

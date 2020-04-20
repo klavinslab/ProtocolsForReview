@@ -1,0 +1,1 @@
+{"name": "Make Glycerol Stock", "category": "Cloning", "inputs": [{"name": "Overnight", "part": false, "array": false, "routing": "P"}, {"name": "Needs Sequencing Results?", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Stock", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

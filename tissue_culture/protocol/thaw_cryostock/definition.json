@@ -1,0 +1,1 @@
+{"name": "Thaw Cryostock", "category": "Tissue Culture", "inputs": [{"name": "Parent Cell Line", "part": false, "array": false, "routing": "C"}, {"name": "Growth Media", "part": false, "array": false, "routing": "G"}], "outputs": [{"name": "Culture Plate", "part": false, "array": false, "routing": "CP"}], "on_the_fly": false}

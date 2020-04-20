@@ -1,0 +1,1 @@
+{"name": "Produce Gibson Batch", "category": "Manager", "inputs": [], "outputs": [{"name": "Gibson Batch", "part": false, "array": false, "routing": null}], "on_the_fly": false}

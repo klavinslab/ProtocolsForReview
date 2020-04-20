@@ -1,0 +1,1 @@
+{"name": "Save, Export, Upload PR Measurement", "category": "Plate Reader", "inputs": [{"name": "Plate", "part": null, "array": null, "routing": null}, {"name": "Keep Plate?", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

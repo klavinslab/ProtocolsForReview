@@ -1,0 +1,1 @@
+{"name": "24-Flow Cytometry Measurements_Draft", "category": "OBSOLETE", "inputs": [{"name": "24 Deep Well Plate", "part": true, "array": false, "routing": ":-)"}], "outputs": [{"name": "Data", "part": true, "array": false, "routing": ":-)"}], "on_the_fly": false}

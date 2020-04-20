@@ -1,0 +1,1 @@
+{"name": "Harvest Cell", "category": "Protein Purification", "inputs": [{"name": "Overexpression", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "After IPTG", "part": null, "array": null, "routing": "P"}, {"name": "Cell pellet", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

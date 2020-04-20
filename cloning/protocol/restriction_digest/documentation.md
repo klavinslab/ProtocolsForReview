@@ -1,0 +1,1 @@
+This protocol accepts a Plasmid Stock and an array of Enzymes to produce a digested plasmid that can currently be used for producing a Fragment Stock through our gel protocols.

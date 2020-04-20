@@ -1,0 +1,1 @@
+{"name": "Combine Purified Samples", "category": "Library Cloning", "inputs": [{"name": "Fragment (array)", "part": null, "array": true, "routing": "p"}], "outputs": [{"name": "Combined Fragment", "part": null, "array": null, "routing": "p"}], "on_the_fly": null}

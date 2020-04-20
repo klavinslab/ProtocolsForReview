@@ -1,0 +1,1 @@
+{"name": "Run Gel (z)", "category": "OBSOLETE", "inputs": [{"name": "Fragment", "part": true, "array": false, "routing": "F"}, {"name": "Gel", "part": true, "array": false, "routing": "L"}], "outputs": [{"name": "Fragment", "part": true, "array": false, "routing": "F"}], "on_the_fly": false}

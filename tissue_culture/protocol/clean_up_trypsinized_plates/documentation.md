@@ -1,0 +1,1 @@
+This protocol deletes and discards all trypsinized plates

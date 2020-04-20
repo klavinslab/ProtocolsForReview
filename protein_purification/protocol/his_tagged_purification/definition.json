@@ -1,0 +1,1 @@
+{"name": "His-tagged Purification", "category": "Protein Purification", "inputs": [{"name": "Cell Lysate", "part": null, "array": null, "routing": "P"}, {"name": "Resin", "part": null, "array": null, "routing": "R"}], "outputs": [{"name": "Protein", "part": null, "array": null, "routing": "PR"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Pour Gel (Advanced)", "category": "Library Cloning", "inputs": [{"name": "Percentage", "part": false, "array": false, "routing": null}, {"name": "Gel Type", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Lane", "part": true, "array": false, "routing": "G"}], "on_the_fly": false}

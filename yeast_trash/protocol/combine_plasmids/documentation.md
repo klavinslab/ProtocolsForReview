@@ -1,0 +1,1 @@
+This will combine volumes from existing stocks into a new stock based on the nanograms you specify for each input. This is used primarily preceding **Plasmid Digest + Yeast Transformation**.

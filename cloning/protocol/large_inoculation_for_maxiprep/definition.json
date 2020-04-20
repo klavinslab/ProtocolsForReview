@@ -1,0 +1,1 @@
+{"name": "Large Inoculation for Maxiprep", "category": "Cloning", "inputs": [{"name": "Small", "part": null, "array": null, "routing": "O"}], "outputs": [{"name": "Large", "part": null, "array": null, "routing": "O"}], "on_the_fly": null}

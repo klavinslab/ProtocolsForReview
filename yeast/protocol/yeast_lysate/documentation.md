@@ -1,0 +1,1 @@
+**Yeast Lysate** should only be used in the same plan as a Plasmid Digest + Yeast Transformation. The plate that comes from PD + YT or Yeast Antibiotic Plating is used as an input to this operation.

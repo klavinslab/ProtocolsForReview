@@ -1,0 +1,1 @@
+{"name": "Lyse Cell", "category": "Protein Purification", "inputs": [{"name": "Cell Pellet", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Cell Lysate", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

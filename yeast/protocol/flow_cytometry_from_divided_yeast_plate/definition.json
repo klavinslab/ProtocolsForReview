@@ -1,0 +1,1 @@
+{"name": "Flow Cytometry from Divided Yeast Plate", "category": "Yeast", "inputs": [{"name": "Yeast Plate", "part": true, "array": null, "routing": "P"}], "outputs": [{"name": "Cytometry Plate", "part": true, "array": null, "routing": "P"}], "on_the_fly": null}

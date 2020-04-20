@@ -1,0 +1,1 @@
+{"name": "E Coli Lysate", "category": "Cloning", "inputs": [{"name": "Plate", "part": null, "array": null, "routing": "YS"}], "outputs": [{"name": "Lysate", "part": true, "array": null, "routing": "YS"}, {"name": "Plate", "part": null, "array": null, "routing": "YS"}], "on_the_fly": null}

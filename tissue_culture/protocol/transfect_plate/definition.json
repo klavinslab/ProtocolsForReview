@@ -1,0 +1,1 @@
+{"name": "Transfect Plate", "category": "Tissue Culture", "inputs": [{"name": "DNA Complex", "part": true, "array": false, "routing": "T"}, {"name": "Parent Cell Line", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Transfected Cell Plate", "part": false, "array": false, "routing": "T"}], "on_the_fly": false}

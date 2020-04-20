@@ -1,0 +1,1 @@
+Add list of comma or space separated item ids. Note you can only discard items that you own.

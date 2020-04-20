@@ -1,0 +1,1 @@
+{"name": "Measure_OD_Draft", "category": "OBSOLETE", "inputs": [{"name": "24 Deep Well Plate", "part": true, "array": null, "routing": ":P"}, {"name": "Timepoint (hr)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "96 Well Flat Bottom Plate", "part": true, "array": null, "routing": ":P"}], "on_the_fly": null}

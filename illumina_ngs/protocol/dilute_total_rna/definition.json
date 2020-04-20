@@ -1,0 +1,1 @@
+{"name": "Dilute Total RNA", "category": "Illumina NGS", "inputs": [{"name": "Total RNA", "part": null, "array": null, "routing": "TR"}], "outputs": [{"name": "Diluted Total RNA Plate", "part": true, "array": null, "routing": "TR"}], "on_the_fly": null}

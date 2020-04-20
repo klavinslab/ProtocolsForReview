@@ -1,0 +1,1 @@
+{"name": "Prepare protoplasts", "category": "Plant Work", "inputs": [{"name": "Jar of plants", "part": null, "array": null, "routing": "D"}, {"name": "Cell wall mix", "part": null, "array": null, "routing": "S"}], "outputs": [{"name": "Digesting Cells", "part": null, "array": null, "routing": "D"}], "on_the_fly": null}

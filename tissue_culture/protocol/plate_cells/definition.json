@@ -1,0 +1,1 @@
+{"name": "Plate Cells", "category": "Tissue Culture", "inputs": [{"name": "Cell Request", "part": true, "array": false, "routing": "C"}, {"name": "Seed Density (%)", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Plate", "part": false, "array": false, "routing": "C"}], "on_the_fly": false}

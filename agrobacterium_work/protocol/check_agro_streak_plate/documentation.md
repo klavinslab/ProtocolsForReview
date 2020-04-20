@@ -1,0 +1,1 @@
+Checks growth of Agro streaked plate. 

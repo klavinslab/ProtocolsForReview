@@ -1,0 +1,1 @@
+{"name": "Check Agro plate", "category": "Agrobacterium work", "inputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Checked Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Agro streak plate", "category": "Agrobacterium work", "inputs": [{"name": "Stock", "part": null, "array": null, "routing": "A"}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": "A"}], "on_the_fly": null}

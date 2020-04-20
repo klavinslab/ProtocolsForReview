@@ -1,0 +1,1 @@
+{"name": "[ADV USERS ONLY] Send to Channel", "category": "Control Blocks", "inputs": [{"name": "Input", "part": false, "array": false, "routing": "X"}, {"name": "Channel", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Output", "part": false, "array": false, "routing": "X"}], "on_the_fly": false}

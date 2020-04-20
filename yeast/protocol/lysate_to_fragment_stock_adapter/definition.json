@@ -1,0 +1,1 @@
+{"name": "Lysate to Fragment stock adapter", "category": "Yeast", "inputs": [{"name": "Lysate", "part": true, "array": null, "routing": "l"}], "outputs": [{"name": "Fragment Stock", "part": null, "array": null, "routing": "l"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Plate Glycerol Stock", "category": "Cloning", "inputs": [{"name": "Glycerol Stock", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Plasmid Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

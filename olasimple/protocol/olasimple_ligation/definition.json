@@ -1,0 +1,1 @@
+{"name": "OLASimple Ligation", "category": "OLASimple", "inputs": [{"name": "PCR Product", "part": false, "array": false, "routing": "PP"}], "outputs": [{"name": "Ligation Product", "part": false, "array": false, "routing": "PP"}], "on_the_fly": false}

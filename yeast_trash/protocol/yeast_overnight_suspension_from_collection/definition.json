@@ -1,0 +1,1 @@
+{"name": "Yeast Overnight Suspension from Collection", "category": "Yeast Trash", "inputs": [{"name": "Yeast Strain", "part": true, "array": null, "routing": "YS"}], "outputs": [{"name": "Overnight", "part": null, "array": null, "routing": "YS"}], "on_the_fly": null}

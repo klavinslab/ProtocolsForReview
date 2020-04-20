@@ -1,0 +1,1 @@
+{"name": "Extract High-Volume Gel", "category": "Library Cloning", "inputs": [{"name": "Fragment", "part": null, "array": null, "routing": ""}, {"name": "expected length (bp)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Fragment in gel slices", "part": null, "array": null, "routing": ""}], "on_the_fly": null}

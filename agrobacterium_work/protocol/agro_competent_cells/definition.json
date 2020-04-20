@@ -1,0 +1,1 @@
+{"name": "Agro competent cells", "category": "Agrobacterium work", "inputs": [{"name": "Strain", "part": false, "array": false, "routing": "S"}], "outputs": [{"name": "Batch", "part": false, "array": false, "routing": "S"}], "on_the_fly": false}

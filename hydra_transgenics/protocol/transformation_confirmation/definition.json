@@ -1,0 +1,1 @@
+{"name": "Transformation Confirmation", "category": "Hydra Transgenics", "inputs": [{"name": "Hydra", "part": null, "array": false, "routing": "B"}], "outputs": [{"name": "Hydra", "part": null, "array": false, "routing": "B"}], "on_the_fly": null}

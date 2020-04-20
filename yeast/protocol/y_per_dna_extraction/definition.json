@@ -1,0 +1,1 @@
+{"name": "Y-PER DNA Extraction", "category": "Yeast", "inputs": [{"name": "Yeast Culture", "part": null, "array": null, "routing": "Y"}], "outputs": [{"name": "DNA", "part": null, "array": null, "routing": "D"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Yeast Patch", "category": "OBSOLETE", "inputs": [{"name": "Colony", "part": true, "array": null, "routing": ":D"}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": ":D"}], "on_the_fly": null}

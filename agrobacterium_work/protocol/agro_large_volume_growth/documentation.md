@@ -1,0 +1,1 @@
+Larve volume culture from which to prepare competent cells

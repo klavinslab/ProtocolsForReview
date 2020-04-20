@@ -1,0 +1,1 @@
+{"name": "Make Cas9::sgRNA Complex", "category": "Hydra Transgenics", "inputs": [{"name": "sgRNA", "part": null, "array": true, "routing": "RNA"}, {"name": "Volume (uL)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Cas9::sgRNA Complex", "part": null, "array": null, "routing": "COMP"}], "on_the_fly": null}

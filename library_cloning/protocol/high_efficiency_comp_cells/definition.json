@@ -1,0 +1,1 @@
+{"name": "High-Efficiency Comp Cells", "category": "Library Cloning", "inputs": [{"name": "Yeast Culture", "part": null, "array": null, "routing": "YS1"}], "outputs": [{"name": "Comp Cells 1", "part": null, "array": null, "routing": "T1"}, {"name": "Comp Cells 2", "part": null, "array": null, "routing": "T2"}], "on_the_fly": null}

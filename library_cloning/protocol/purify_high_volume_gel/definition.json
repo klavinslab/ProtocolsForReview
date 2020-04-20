@@ -1,0 +1,1 @@
+{"name": "Purify High-Volume Gel", "category": "Library Cloning", "inputs": [{"name": "Gel slices", "part": null, "array": null, "routing": "G"}], "outputs": [{"name": "Fragment first round", "part": null, "array": null, "routing": "F"}, {"name": "Fragment second round", "part": null, "array": null, "routing": "F"}], "on_the_fly": null}

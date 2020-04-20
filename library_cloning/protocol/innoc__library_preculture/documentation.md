@@ -1,0 +1,1 @@
+the 50mL in a single "Innoc. Library Preculture" is enough for 5 "Dilute Library Preculture" ops.

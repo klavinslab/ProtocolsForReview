@@ -1,0 +1,1 @@
+{"name": "Discard List of Items (copy)", "category": "Cloning", "inputs": [{"name": "Items to discard (comma or space separated)", "part": false, "array": false, "routing": null}, {"name": "Items to discard", "part": false, "array": true, "routing": "A"}], "outputs": [], "on_the_fly": false}

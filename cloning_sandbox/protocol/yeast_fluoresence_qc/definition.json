@@ -1,0 +1,1 @@
+{"name": "Yeast fluoresence QC", "category": "Cloning Sandbox", "inputs": [{"name": "Plate", "part": null, "array": null, "routing": "Y"}, {"name": "Fluorescent protein", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

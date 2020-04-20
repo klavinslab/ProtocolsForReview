@@ -1,0 +1,1 @@
+{"name": "Discard Item", "category": "Misc.", "inputs": [{"name": "Item", "part": false, "array": false, "routing": "A"}], "outputs": [], "on_the_fly": false}

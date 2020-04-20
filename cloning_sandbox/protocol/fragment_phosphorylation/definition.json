@@ -1,0 +1,1 @@
+{"name": "Fragment phosphorylation", "category": "Cloning Sandbox", "inputs": [{"name": "Fragment", "part": false, "array": false, "routing": "F"}], "outputs": [{"name": "Phosphofragment", "part": false, "array": false, "routing": "F"}], "on_the_fly": false}

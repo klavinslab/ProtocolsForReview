@@ -1,0 +1,1 @@
+{"name": "Prepare bottles of plant media", "category": "Plant Work", "inputs": [], "outputs": [{"name": "Media", "part": false, "array": false, "routing": "C"}], "on_the_fly": false}

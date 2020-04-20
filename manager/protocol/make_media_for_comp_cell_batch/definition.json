@@ -1,0 +1,1 @@
+{"name": "Make Media for Comp Cell Batch", "category": "Manager", "inputs": [], "outputs": [{"name": "Glycerol", "part": null, "array": null, "routing": "g"}, {"name": "Water", "part": null, "array": null, "routing": "w"}], "on_the_fly": null}

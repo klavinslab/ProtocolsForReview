@@ -1,0 +1,1 @@
+{"name": "Extract gDNA", "category": "Plant Work", "inputs": [{"name": "Tissue", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "gDNA", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

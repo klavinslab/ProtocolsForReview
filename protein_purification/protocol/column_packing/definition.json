@@ -1,0 +1,1 @@
+{"name": "Column Packing", "category": "Protein Purification", "inputs": [], "outputs": [{"name": "Affinity Column", "part": null, "array": null, "routing": "B"}], "on_the_fly": null}

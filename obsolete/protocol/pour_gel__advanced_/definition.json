@@ -1,0 +1,1 @@
+{"name": "Pour Gel (Advanced)", "category": "OBSOLETE", "inputs": [{"name": "Percentage", "part": null, "array": null, "routing": null}, {"name": "Gel Type", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Lane", "part": true, "array": null, "routing": "G"}], "on_the_fly": null}

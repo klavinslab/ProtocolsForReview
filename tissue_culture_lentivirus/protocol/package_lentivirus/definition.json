@@ -1,0 +1,1 @@
+{"name": "Package Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Packaging Cell Line", "part": false, "array": false, "routing": "CL"}, {"name": "Lentivirus DNA Complex", "part": true, "array": false, "routing": "PL"}], "outputs": [{"name": "Packaging Plate", "part": false, "array": false, "routing": "PL"}], "on_the_fly": false}

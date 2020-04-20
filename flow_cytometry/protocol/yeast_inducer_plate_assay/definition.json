@@ -1,0 +1,1 @@
+{"name": "Yeast Inducer Plate Assay", "category": "Flow Cytometry", "inputs": [{"name": "Strains (8 max)", "part": false, "array": true, "routing": "S"}, {"name": "Inducer and range", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Transfer to 96 Well Plate", "category": "Yeast Display", "inputs": [{"name": "Labeled Yeast Library", "part": null, "array": true, "routing": "YL"}], "outputs": [{"name": "96 well plate", "part": null, "array": null, "routing": null}], "on_the_fly": null}

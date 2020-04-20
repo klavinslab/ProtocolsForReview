@@ -1,0 +1,1 @@
+{"name": "Fix Cells on Multiwell Dish", "category": "Tissue Culture", "inputs": [{"name": "Multiwell Dish", "part": true, "array": false, "routing": "MWD"}], "outputs": [], "on_the_fly": false}

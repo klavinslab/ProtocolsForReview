@@ -1,0 +1,1 @@
+{"name": "CPCR result to Fragment stripwell adapter", "category": "Yeast", "inputs": [{"name": "Strain", "part": true, "array": true, "routing": "S"}], "outputs": [{"name": "Fragment", "part": true, "array": false, "routing": "F"}], "on_the_fly": false}

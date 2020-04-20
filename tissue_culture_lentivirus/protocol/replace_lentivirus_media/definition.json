@@ -1,0 +1,1 @@
+{"name": "Replace Lentivirus Media", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Transfected Plate", "part": false, "array": false, "routing": "L"}], "outputs": [{"name": "Packaging Plate", "part": false, "array": false, "routing": "L"}], "on_the_fly": false}

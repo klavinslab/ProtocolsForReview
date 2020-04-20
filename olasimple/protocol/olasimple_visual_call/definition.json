@@ -1,0 +1,1 @@
+{"name": "OLASimple Visual Call", "category": "OLASimple", "inputs": [{"name": "Detection Strip", "part": false, "array": false, "routing": "DS"}], "outputs": [], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Pour Vials", "category": "Reagents", "inputs": [{"name": "Media", "part": false, "array": false, "routing": "A"}], "outputs": [{"name": "Vial Batch", "part": true, "array": false, "routing": "A"}], "on_the_fly": false}

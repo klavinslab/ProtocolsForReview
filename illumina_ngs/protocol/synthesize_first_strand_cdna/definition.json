@@ -1,0 +1,1 @@
+{"name": "Synthesize First Strand cDNA", "category": "Illumina NGS", "inputs": [{"name": "Depleted RNA Frags Plate", "part": true, "array": false, "routing": "DFP"}], "outputs": [{"name": "First Strand cDNA Library", "part": true, "array": null, "routing": "DFP"}], "on_the_fly": false}

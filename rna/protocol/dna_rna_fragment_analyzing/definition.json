@@ -1,0 +1,1 @@
+{"name": "DNA/RNA Fragment Analyzing", "category": "RNA", "inputs": [{"name": "PCR", "part": true, "array": null, "routing": null}, {"name": "expected length (bp)", "part": null, "array": null, "routing": null}, {"name": "sample type", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

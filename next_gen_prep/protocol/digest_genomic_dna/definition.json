@@ -1,0 +1,1 @@
+{"name": "Digest Genomic DNA", "category": "Next Gen Prep", "inputs": [{"name": "Zymoprepped sample", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Exonucleased sample", "part": null, "array": null, "routing": null}], "on_the_fly": null}

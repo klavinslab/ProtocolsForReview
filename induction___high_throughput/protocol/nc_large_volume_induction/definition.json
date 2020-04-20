@@ -1,0 +1,1 @@
+{"name": "NC_Large_Volume_Induction", "category": "Induction - High Throughput", "inputs": [{"name": "96 Well Plate in", "part": null, "array": null, "routing": "A"}], "outputs": [{"name": "24 Deep Wells", "part": null, "array": true, "routing": "B"}], "on_the_fly": null}

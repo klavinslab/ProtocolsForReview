@@ -1,0 +1,1 @@
+Input a Plasmid or Fragment Stock and an array of Enzymes to produce a 0.6 mL tube containing 4000 ng of digested plasmid or fragment. 

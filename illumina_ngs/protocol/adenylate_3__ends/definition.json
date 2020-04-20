@@ -1,0 +1,1 @@
+{"name": "Adenylate 3' Ends", "category": "Illumina NGS", "inputs": [{"name": "cDNA Library", "part": true, "array": null, "routing": "cDNA"}], "outputs": [{"name": "Adenylated cDNA Library", "part": true, "array": null, "routing": "cDNA"}], "on_the_fly": null}

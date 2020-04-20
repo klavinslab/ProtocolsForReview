@@ -1,0 +1,1 @@
+{"name": "Make Tissue Culture Media", "category": "Tissue Culture", "inputs": [{"name": "Base media", "part": false, "array": false, "routing": "B"}], "outputs": [{"name": "New Media", "part": false, "array": false, "routing": "NM"}], "on_the_fly": false}

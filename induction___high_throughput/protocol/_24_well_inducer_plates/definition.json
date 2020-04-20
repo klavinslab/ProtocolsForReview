@@ -1,0 +1,1 @@
+{"name": "24 well inducer plates", "category": "Induction - High Throughput", "inputs": [{"name": "24 well plate", "part": false, "array": false, "routing": null}], "outputs": [{"name": "inducer plates", "part": false, "array": true, "routing": null}], "on_the_fly": false}

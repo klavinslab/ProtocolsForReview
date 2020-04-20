@@ -1,0 +1,1 @@
+{"name": "Resuspend Oligo Pool", "category": "Library Cloning", "inputs": [{"name": "Oligo Pool", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Oligo Pool", "part": null, "array": null, "routing": "P"}, {"name": "Dilute Oligo Pool", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

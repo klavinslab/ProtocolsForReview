@@ -1,0 +1,1 @@
+{"name": "Streak Yeast Colonies onto Selective Plate", "category": "Yeast", "inputs": [{"name": "Yeast Strain", "part": false, "array": false, "routing": "YS"}, {"name": "Colonies", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Streak Plate", "part": true, "array": false, "routing": "YS"}], "on_the_fly": false}

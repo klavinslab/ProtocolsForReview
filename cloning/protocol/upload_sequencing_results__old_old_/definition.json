@@ -1,0 +1,1 @@
+{"name": "Upload Sequencing Results (old-old)", "category": "Cloning", "inputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "24 well growth", "category": "Induction - High Throughput", "inputs": [{"name": "in 24 well plates", "part": false, "array": true, "routing": null}, {"name": "time (hrs)", "part": false, "array": false, "routing": null}], "outputs": [{"name": "out 24 well plates", "part": false, "array": true, "routing": null}], "on_the_fly": false}

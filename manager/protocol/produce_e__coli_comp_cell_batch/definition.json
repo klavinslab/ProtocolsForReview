@@ -1,0 +1,1 @@
+{"name": "Produce E. coli Comp Cell Batch", "category": "Manager", "inputs": [{"name": "Overnight", "part": null, "array": null, "routing": "s"}, {"name": "Glycerol", "part": null, "array": null, "routing": "g"}, {"name": "Water", "part": null, "array": null, "routing": "w"}], "outputs": [{"name": "Comp Cell", "part": null, "array": null, "routing": "e"}], "on_the_fly": null}

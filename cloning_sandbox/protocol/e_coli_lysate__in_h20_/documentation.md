@@ -1,0 +1,1 @@
+Picks a small colony and places in H20 for downstream PCR

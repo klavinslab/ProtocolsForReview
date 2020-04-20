@@ -1,0 +1,1 @@
+{"name": "Yeast Antibiotic Plating", "category": "Yeast", "inputs": [{"name": "Overnight", "part": false, "array": false, "routing": "YS"}], "outputs": [{"name": "Plate", "part": false, "array": false, "routing": "YS"}], "on_the_fly": false}

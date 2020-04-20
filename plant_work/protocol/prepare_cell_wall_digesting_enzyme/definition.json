@@ -1,0 +1,1 @@
+{"name": "Prepare cell wall digesting enzyme", "category": "Plant Work", "inputs": [{"name": "Storage_Temp", "part": null, "array": null, "routing": null}, {"name": "MES Solution", "part": null, "array": null, "routing": "A"}], "outputs": [{"name": "Enzyme mix", "part": false, "array": false, "routing": "S"}], "on_the_fly": false}

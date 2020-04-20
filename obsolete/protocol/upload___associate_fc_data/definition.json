@@ -1,0 +1,1 @@
+{"name": "Upload & Associate FC Data", "category": "OBSOLETE", "inputs": [{"name": "Culture Plate", "part": null, "array": null, "routing": "P"}, {"name": "Name of Data Directory", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

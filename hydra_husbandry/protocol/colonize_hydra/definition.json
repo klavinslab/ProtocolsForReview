@@ -1,0 +1,1 @@
+{"name": "Colonize Hydra", "category": "Hydra Husbandry", "inputs": [{"name": "Hydra", "part": null, "array": null, "routing": "H"}, {"name": "Number of Hydra", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Hydra", "part": null, "array": null, "routing": "H"}], "on_the_fly": null}

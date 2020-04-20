@@ -1,0 +1,1 @@
+{"name": "Transduce Plate with Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Cell Plate", "part": false, "array": false, "routing": "CP"}, {"name": "Lentivirus", "part": false, "array": false, "routing": "LV"}], "outputs": [], "on_the_fly": false}

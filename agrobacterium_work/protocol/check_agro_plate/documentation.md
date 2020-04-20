@@ -1,0 +1,1 @@
+Check a plate of transformed agro for colony growth and contamination

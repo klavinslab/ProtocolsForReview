@@ -1,0 +1,1 @@
+{"name": "Aliquot seeds", "category": "Plant Work", "inputs": [{"name": "Seedstock", "part": null, "array": null, "routing": "S"}], "outputs": [{"name": "Aliquots", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

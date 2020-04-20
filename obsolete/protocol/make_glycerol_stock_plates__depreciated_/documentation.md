@@ -1,0 +1,1 @@
+This operation takes a 96 well plate filled with active cell cultures, and transfers the cultures into 3 pcr plates that use the same layout as the input plate. The output pcr plates are prepared with a 1:1 ratio of 50% glycerol and the respective input cultures, and then stored in the M80 freezer. 

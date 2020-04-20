@@ -1,0 +1,1 @@
+{"name": "Flow Cytometry Calibration", "category": "High Throughput Culturing", "inputs": [{"name": "Optical Particles", "part": false, "array": false, "routing": "OP"}], "outputs": [{"name": "Diluted Beads", "part": false, "array": false, "routing": "OP"}], "on_the_fly": false}

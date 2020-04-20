@@ -1,0 +1,1 @@
+{"name": "Agrobacterium transformation", "category": "Agrobacterium work", "inputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}, {"name": "Batch", "part": false, "array": false, "routing": "S"}], "outputs": [{"name": "Transformed", "part": false, "array": false, "routing": "T"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Find and Update Illumina Adapter Plate", "category": "Illumina NGS", "inputs": [{"name": "Illumina Adapter Plate Type", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

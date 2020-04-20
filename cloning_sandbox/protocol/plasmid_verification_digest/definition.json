@@ -1,0 +1,1 @@
+{"name": "Plasmid Verification Digest", "category": "Cloning Sandbox", "inputs": [{"name": "DNA", "part": null, "array": null, "routing": "D"}, {"name": "Enzymes", "part": null, "array": true, "routing": "E"}], "outputs": [{"name": "Cut DNA", "part": true, "array": null, "routing": "D"}], "on_the_fly": null}

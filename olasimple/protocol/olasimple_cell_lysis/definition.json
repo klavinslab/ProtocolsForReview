@@ -1,0 +1,1 @@
+{"name": "OLASimple Cell Lysis", "category": "OLASimple", "inputs": [{"name": "Whole Blood", "part": false, "array": false, "routing": "C"}, {"name": "Kit Number", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Lysed blood", "part": false, "array": false, "routing": "C"}], "on_the_fly": false}

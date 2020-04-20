@@ -1,0 +1,1 @@
+{"name": "Make Library Glycerol Stocks", "category": "Library Cloning", "inputs": [{"name": "Yeast Culture", "part": null, "array": false, "routing": "YS"}], "outputs": [{"name": "Yeast Culture", "part": null, "array": true, "routing": "YS"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Large Volume Induction", "category": "Induction - High Throughput", "inputs": [{"name": "96 Well Plate in", "part": false, "array": false, "routing": "A"}], "outputs": [{"name": "24 Deep Wells", "part": false, "array": true, "routing": "A"}], "on_the_fly": false}

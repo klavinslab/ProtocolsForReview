@@ -1,0 +1,1 @@
+{"name": "Plate Transformed Cells (BL21DE3)", "category": "Protein Purification", "inputs": [{"name": "Plasmid", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

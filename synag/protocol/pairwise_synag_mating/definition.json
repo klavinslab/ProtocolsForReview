@@ -1,0 +1,1 @@
+{"name": "Pairwise SynAg Mating", "category": "SynAg", "inputs": [{"name": "A strain", "part": null, "array": null, "routing": "A"}, {"name": "Alpha strain", "part": null, "array": null, "routing": "B"}], "outputs": [{"name": "Mated", "part": null, "array": null, "routing": "C"}], "on_the_fly": null}

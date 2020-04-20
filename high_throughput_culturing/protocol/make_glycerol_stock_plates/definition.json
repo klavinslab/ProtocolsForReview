@@ -1,0 +1,1 @@
+{"name": "Make Glycerol Stock Plates", "category": "High Throughput Culturing", "inputs": [{"name": "Culture Plate", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Glycerol Stock Plate", "part": false, "array": true, "routing": "GP"}], "on_the_fly": false}

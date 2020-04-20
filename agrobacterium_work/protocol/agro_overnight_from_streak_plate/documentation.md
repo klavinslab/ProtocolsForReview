@@ -1,0 +1,1 @@
+Overnight culture from a plate of Agro (streaked out from glycerol stock)

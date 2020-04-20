@@ -1,0 +1,1 @@
+{"name": "Streak E coli Plate", "category": "Cloning", "inputs": [{"name": "Plasmid", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

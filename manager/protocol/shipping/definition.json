@@ -1,0 +1,1 @@
+{"name": "Shipping", "category": "Manager", "inputs": [{"name": "Ship Out", "part": null, "array": null, "routing": "A"}, {"name": "Customer", "part": null, "array": null, "routing": "C"}], "outputs": [], "on_the_fly": null}

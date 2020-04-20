@@ -1,0 +1,1 @@
+{"name": "Pour Gels (copy)", "category": "Next Gen Prep", "inputs": [{"name": "Gel Type", "part": false, "array": false, "routing": null}, {"name": "Percentage", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Gel (array)", "part": true, "array": false, "routing": "G"}], "on_the_fly": false}

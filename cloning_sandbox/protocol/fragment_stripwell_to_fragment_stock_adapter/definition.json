@@ -1,0 +1,1 @@
+{"name": "Fragment Stripwell to Fragment Stock adapter", "category": "Cloning Sandbox", "inputs": [{"name": "Stripwell", "part": true, "array": null, "routing": "X"}], "outputs": [{"name": "Stock", "part": null, "array": null, "routing": "X"}], "on_the_fly": null}

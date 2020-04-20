@@ -1,0 +1,1 @@
+{"name": "Prepare Golden Gate Dilution", "category": "Cloning", "inputs": [{"name": "Stock", "part": null, "array": null, "routing": "A"}], "outputs": [{"name": "Dilution", "part": null, "array": null, "routing": "A"}], "on_the_fly": null}

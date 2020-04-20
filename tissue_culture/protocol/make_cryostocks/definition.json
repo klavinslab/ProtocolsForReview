@@ -1,0 +1,1 @@
+{"name": "Make Cryostocks", "category": "Tissue Culture", "inputs": [{"name": "Cell Suspension", "part": null, "array": null, "routing": "C"}, {"name": "Number of Cryostocks", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Cryostock", "part": null, "array": null, "routing": "C"}], "on_the_fly": null}

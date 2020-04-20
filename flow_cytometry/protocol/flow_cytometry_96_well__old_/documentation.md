@@ -1,0 +1,1 @@
+Protocol for running flow cytometry, including cleaning before and after, and running beads as a calibration sample. Samples are in 96-well plate. Plate can be partially or fully occupied. 

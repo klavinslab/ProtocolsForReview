@@ -1,0 +1,1 @@
+{"name": "Rehydrate Fragment", "category": "Cloning", "inputs": [{"name": "Lyophilized Fragment", "part": false, "array": false, "routing": "F"}], "outputs": [{"name": "Fragment Stock", "part": false, "array": false, "routing": "F"}, {"name": "Diluted Fragment", "part": false, "array": false, "routing": "F"}], "on_the_fly": false}

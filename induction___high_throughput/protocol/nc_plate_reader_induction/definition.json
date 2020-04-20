@@ -1,0 +1,1 @@
+{"name": "NC_Plate_Reader_Induction", "category": "Induction - High Throughput", "inputs": [{"name": "96 Deep Well plate", "part": null, "array": null, "routing": "A"}, {"name": "Growth Temperature (\u00b0C)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "96 Well Flat Bottom", "part": null, "array": null, "routing": "B"}], "on_the_fly": null}

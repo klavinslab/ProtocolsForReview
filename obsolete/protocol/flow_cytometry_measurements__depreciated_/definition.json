@@ -1,0 +1,1 @@
+{"name": "Flow Cytometry Measurements (depreciated)", "category": "OBSOLETE", "inputs": [{"name": "96 Well Flat Bottom Plate", "part": true, "array": null, "routing": "A"}, {"name": "calibration beads", "part": null, "array": null, "routing": "B"}], "outputs": [], "on_the_fly": null}

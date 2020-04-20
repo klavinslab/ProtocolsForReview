@@ -1,0 +1,1 @@
+{"name": "Plasmid Digest", "category": "Yeast", "inputs": [{"name": "Integrant", "part": false, "array": false, "routing": "I"}], "outputs": [{"name": "Digested Plasmid", "part": false, "array": false, "routing": "I"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Leaf Infiltration", "category": "Plant Work", "inputs": [{"name": "Plants", "part": null, "array": null, "routing": "P"}, {"name": "Agro mix", "part": null, "array": null, "routing": "S"}], "outputs": [{"name": "Infiltrated plants", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

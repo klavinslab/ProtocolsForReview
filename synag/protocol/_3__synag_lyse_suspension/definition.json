@@ -1,0 +1,1 @@
+{"name": "3. SynAg Lyse suspension", "category": "SynAg", "inputs": [{"name": "Culture", "part": null, "array": null, "routing": "Y"}], "outputs": [{"name": "Lysate", "part": null, "array": null, "routing": "Y"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "TBS: 20mM tris, 100mM NaCI, pH 8.0", "category": "Reagents", "inputs": [], "outputs": [{"name": "TBS", "part": null, "array": null, "routing": "B"}], "on_the_fly": null}

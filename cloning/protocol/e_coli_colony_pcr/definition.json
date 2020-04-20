@@ -1,0 +1,1 @@
+{"name": "E Coli Colony PCR", "category": "Cloning", "inputs": [{"name": "QC Primer1", "part": null, "array": null, "routing": "FP"}, {"name": "QC Primer2", "part": null, "array": null, "routing": "RP"}, {"name": "Template", "part": true, "array": null, "routing": "YS"}], "outputs": [{"name": "PCR", "part": true, "array": null, "routing": "YS"}], "on_the_fly": null}

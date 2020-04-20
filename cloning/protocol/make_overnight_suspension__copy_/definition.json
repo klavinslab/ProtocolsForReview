@@ -1,0 +1,1 @@
+{"name": "Make Overnight Suspension (copy)", "category": "Cloning", "inputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Overnight", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

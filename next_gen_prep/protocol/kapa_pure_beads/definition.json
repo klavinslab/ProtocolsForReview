@@ -1,0 +1,1 @@
+{"name": "KAPA Pure Beads", "category": "Next Gen Prep", "inputs": [{"name": "DNA", "part": null, "array": null, "routing": "D"}, {"name": "Microliters To Process", "part": null, "array": null, "routing": null}, {"name": "Retention Limit", "part": null, "array": null, "routing": null}], "outputs": [{"name": "DNA", "part": null, "array": null, "routing": "D"}], "on_the_fly": null}

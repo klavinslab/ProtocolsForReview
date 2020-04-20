@@ -1,0 +1,1 @@
+{"name": "Synthesize Second Strand cDNA", "category": "Illumina NGS", "inputs": [{"name": "First Strand cDNA Library", "part": true, "array": null, "routing": "cDNA"}], "outputs": [{"name": "cDNA Library", "part": true, "array": null, "routing": "cDNA"}], "on_the_fly": null}

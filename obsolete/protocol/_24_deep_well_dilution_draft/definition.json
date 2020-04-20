@@ -1,0 +1,1 @@
+{"name": "24-Deep Well Dilution_Draft", "category": "OBSOLETE", "inputs": [{"name": "24 Deep Well Plate", "part": true, "array": false, "routing": ":9"}], "outputs": [{"name": "24 Deep Well Plate", "part": true, "array": false, "routing": ":9"}], "on_the_fly": false}

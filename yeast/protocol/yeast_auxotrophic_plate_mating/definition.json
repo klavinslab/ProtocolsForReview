@@ -1,0 +1,1 @@
+{"name": "Yeast Auxotrophic Plate Mating", "category": "Yeast", "inputs": [{"name": "Haploid 1", "part": null, "array": null, "routing": "A"}, {"name": "Haploid 2", "part": null, "array": null, "routing": "L"}], "outputs": [{"name": "Diploid", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

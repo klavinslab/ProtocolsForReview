@@ -1,0 +1,1 @@
+{"name": "Order Addgene Plasmid", "category": "Manager", "inputs": [{"name": "Addgene Number", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

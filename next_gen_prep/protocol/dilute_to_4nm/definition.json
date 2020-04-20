@@ -1,0 +1,1 @@
+{"name": "Dilute to 4nM", "category": "Next Gen Prep", "inputs": [{"name": "DNA library in", "part": null, "array": null, "routing": "L"}], "outputs": [{"name": "DNA library out", "part": null, "array": null, "routing": "L"}], "on_the_fly": null}

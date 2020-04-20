@@ -1,0 +1,1 @@
+{"name": "Analyze Verification Digest", "category": "Cloning Sandbox", "inputs": [{"name": "Cut DNA", "part": true, "array": null, "routing": "S"}, {"name": "Band Sizes", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

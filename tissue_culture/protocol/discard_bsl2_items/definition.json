@@ -1,0 +1,1 @@
+{"name": "Discard BSL2 Items", "category": "Tissue Culture", "inputs": [{"name": "Items to discard (comma or space separated)", "part": false, "array": false, "routing": null}], "outputs": [], "on_the_fly": false}

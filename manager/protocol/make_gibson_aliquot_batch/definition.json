@@ -1,0 +1,1 @@
+{"name": "Make Gibson Aliquot Batch", "category": "Manager", "inputs": [{"name": "Num Aliquots", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Batch", "part": false, "array": false, "routing": "B"}], "on_the_fly": false}

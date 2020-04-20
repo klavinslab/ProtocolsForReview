@@ -1,0 +1,1 @@
+{"name": "Streak on Media Plate", "category": "Library Cloning", "inputs": [{"name": "Yeast Strain", "part": null, "array": null, "routing": null}, {"name": "Media", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Streak Plate", "part": true, "array": null, "routing": null}], "on_the_fly": null}

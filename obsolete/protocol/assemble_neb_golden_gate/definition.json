@@ -1,0 +1,1 @@
+{"name": "Assemble NEB Golden Gate", "category": "OBSOLETE", "inputs": [{"name": "Backbone", "part": false, "array": false, "routing": "B"}, {"name": "Inserts", "part": false, "array": true, "routing": "I"}], "outputs": [{"name": "Plasmid", "part": true, "array": false, "routing": "AP"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Make Agar Stab", "category": "Manager", "inputs": [{"name": "Strain", "part": null, "array": null, "routing": "S"}], "outputs": [{"name": "Agar Stab", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "DNA ethanol precipitation", "category": "Cloning Sandbox", "inputs": [{"name": "DNA", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Plasmid Stock in Ethanol", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

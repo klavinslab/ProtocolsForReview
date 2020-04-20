@@ -1,0 +1,1 @@
+{"name": "[ADV USERS ONLY] Associate to Item", "category": "Control Blocks", "inputs": [{"name": "Input", "part": false, "array": false, "routing": "X"}, {"name": "Associations", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Output", "part": false, "array": false, "routing": "X"}], "on_the_fly": false}

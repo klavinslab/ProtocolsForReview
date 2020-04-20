@@ -1,0 +1,1 @@
+{"name": "Fragment Analyzing", "category": "Yeast", "inputs": [{"name": "PCR", "part": true, "array": false, "routing": "YS"}], "outputs": [], "on_the_fly": false}

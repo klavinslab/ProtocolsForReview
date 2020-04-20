@@ -1,0 +1,1 @@
+{"name": "Agro large volume growth", "category": "Agrobacterium work", "inputs": [{"name": "Overnight", "part": false, "array": false, "routing": "A"}], "outputs": [{"name": "Large Volume", "part": false, "array": false, "routing": "A"}], "on_the_fly": false}

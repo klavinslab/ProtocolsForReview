@@ -1,0 +1,1 @@
+{"name": "IPTG Induction", "category": "Protein Purification", "inputs": [{"name": "Overexpression", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Overexpression", "part": null, "array": null, "routing": "P"}, {"name": "Before IPTG", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

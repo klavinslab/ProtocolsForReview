@@ -1,0 +1,1 @@
+{"name": "Combine Lentivirus Harvests", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Lentivirus Harvest", "part": false, "array": true, "routing": "L"}], "outputs": [{"name": "Combined Harvest", "part": false, "array": false, "routing": "LV"}], "on_the_fly": false}

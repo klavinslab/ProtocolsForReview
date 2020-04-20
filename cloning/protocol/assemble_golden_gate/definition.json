@@ -1,0 +1,1 @@
+{"name": "Assemble Golden Gate", "category": "Cloning", "inputs": [{"name": "Parts", "part": false, "array": true, "routing": "I"}, {"name": "Restriction Enzyme", "part": null, "array": null, "routing": null}, {"name": "Method", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Plasmid", "part": true, "array": false, "routing": "AP"}], "on_the_fly": false}

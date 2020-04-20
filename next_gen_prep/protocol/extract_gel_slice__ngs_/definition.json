@@ -1,0 +1,1 @@
+{"name": "Extract Gel Slice (NGS)", "category": "Next Gen Prep", "inputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}], "outputs": [{"name": "Fragment", "part": null, "array": null, "routing": "F"}], "on_the_fly": null}

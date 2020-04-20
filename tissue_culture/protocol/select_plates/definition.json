@@ -1,0 +1,1 @@
+{"name": "Select Plates", "category": "Tissue Culture", "inputs": [], "outputs": [{"name": "Requested Plate", "part": false, "array": false, "routing": "D"}], "on_the_fly": false}

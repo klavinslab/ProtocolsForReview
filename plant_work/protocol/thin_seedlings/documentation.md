@@ -1,0 +1,1 @@
+Thin out plants from a culture vessel (Jar) of Arabidopsis seedlings

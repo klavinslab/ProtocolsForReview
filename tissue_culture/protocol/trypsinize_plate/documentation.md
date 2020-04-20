@@ -1,0 +1,1 @@
+This protocol trypsinizes plates and places them in the 37C incubator.

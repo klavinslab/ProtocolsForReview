@@ -1,0 +1,1 @@
+{"name": "Transform BL21DE3 Cells", "category": "Protein Purification", "inputs": [{"name": "Plasmid", "part": null, "array": null, "routing": "P"}, {"name": "Comp Cells", "part": true, "array": null, "routing": "C"}], "outputs": [{"name": "Transformed E.Coli", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

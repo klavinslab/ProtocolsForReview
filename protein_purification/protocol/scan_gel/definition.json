@@ -1,0 +1,1 @@
+{"name": "Scan Gel", "category": "Protein Purification", "inputs": [{"name": "SDS Gel", "part": true, "array": null, "routing": "PR"}], "outputs": [], "on_the_fly": null}

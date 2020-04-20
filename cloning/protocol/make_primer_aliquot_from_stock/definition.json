@@ -1,0 +1,1 @@
+{"name": "Make Primer Aliquot from Stock", "category": "Cloning", "inputs": [{"name": "Stock", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Aliquot", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

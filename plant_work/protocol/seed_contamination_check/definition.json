@@ -1,0 +1,1 @@
+{"name": "Seed contamination check", "category": "Plant Work", "inputs": [{"name": "Jar", "part": false, "array": false, "routing": "J"}], "outputs": [], "on_the_fly": false}

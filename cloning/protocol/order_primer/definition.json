@@ -1,0 +1,1 @@
+{"name": "Order Primer", "category": "Cloning", "inputs": [{"name": "Urgent?", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Primer", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "OLASimple Paper Detection", "category": "OLASimple", "inputs": [{"name": "Ligation Product", "part": false, "array": false, "routing": "LP"}], "outputs": [{"name": "Detection Strip", "part": false, "array": false, "routing": "LP"}], "on_the_fly": false}

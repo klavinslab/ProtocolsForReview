@@ -1,0 +1,1 @@
+{"name": "Transfer Samples to Stripwell", "category": "Library Cloning", "inputs": [{"name": "PCR tube", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Stripwell", "part": true, "array": null, "routing": "P"}], "on_the_fly": null}

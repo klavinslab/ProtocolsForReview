@@ -1,0 +1,1 @@
+{"name": "Tandem Phosphorylation and Ligation", "category": "Cloning Sandbox", "inputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}], "outputs": [{"name": "Plasmid", "part": true, "array": null, "routing": "P"}], "on_the_fly": null}

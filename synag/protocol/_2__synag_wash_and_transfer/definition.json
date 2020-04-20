@@ -1,0 +1,1 @@
+{"name": "2. SynAg Wash and transfer", "category": "SynAg", "inputs": [{"name": "Small", "part": null, "array": null, "routing": "Y"}], "outputs": [{"name": "Large", "part": null, "array": null, "routing": "Y"}], "on_the_fly": null}

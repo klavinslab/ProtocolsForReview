@@ -1,0 +1,1 @@
+{"name": "Extract Gel Slice", "category": "Cloning", "inputs": [{"name": "Fragment", "part": true, "array": false, "routing": "F"}], "outputs": [{"name": "Fragment", "part": false, "array": false, "routing": "F"}], "on_the_fly": false}

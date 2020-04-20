@@ -1,0 +1,1 @@
+{"name": "Create Experimental Plate", "category": "Plate Reader", "inputs": [{"name": "Note:", "part": null, "array": null, "routing": null}], "outputs": [{"name": "96 Well Plate", "part": null, "array": null, "routing": "Plate"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Fix Cells on Plate", "category": "Tissue Culture", "inputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "outputs": [], "on_the_fly": false}

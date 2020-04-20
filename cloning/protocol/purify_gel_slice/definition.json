@@ -1,0 +1,1 @@
+{"name": "Purify Gel Slice", "category": "Cloning", "inputs": [{"name": "Gel", "part": false, "array": false, "routing": "F"}], "outputs": [{"name": "Fragment", "part": false, "array": false, "routing": "F"}], "on_the_fly": false}

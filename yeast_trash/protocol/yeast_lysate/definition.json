@@ -1,0 +1,1 @@
+{"name": "Yeast Lysate", "category": "Yeast Trash", "inputs": [], "outputs": [{"name": "Lysate", "part": true, "array": false, "routing": "YS"}], "on_the_fly": false}

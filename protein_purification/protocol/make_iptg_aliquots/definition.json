@@ -1,0 +1,1 @@
+{"name": "Make IPTG Aliquots", "category": "Protein Purification", "inputs": [], "outputs": [{"name": "IPTG Aliquot", "part": null, "array": null, "routing": "I"}], "on_the_fly": null}

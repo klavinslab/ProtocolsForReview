@@ -1,0 +1,1 @@
+This protocol uses an existing Primer stock in inventory to make a 1:10 diluted 100µL aliquot of that primer.

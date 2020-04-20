@@ -1,0 +1,1 @@
+{"name": "qPCR Library Purification", "category": "Preparative qPCR", "inputs": [{"name": "Tube 1", "part": null, "array": null, "routing": "p"}], "outputs": [{"name": "Library", "part": null, "array": null, "routing": "p"}], "on_the_fly": null}

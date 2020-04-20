@@ -1,0 +1,1 @@
+{"name": "Check Divided Yeast Plate", "category": "Yeast Trash", "inputs": [{"name": "Plate", "part": true, "array": false, "routing": "P"}], "outputs": [{"name": "Plate", "part": true, "array": false, "routing": "P"}], "on_the_fly": false}

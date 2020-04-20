@@ -1,0 +1,1 @@
+{"name": "24-Deep Well Overnight Suspension_Draft", "category": "OBSOLETE", "inputs": [{"name": "Yeast Cells", "part": null, "array": null, "routing": ":D"}], "outputs": [{"name": "24 Deep Well Plate", "part": true, "array": null, "routing": ":D"}], "on_the_fly": null}

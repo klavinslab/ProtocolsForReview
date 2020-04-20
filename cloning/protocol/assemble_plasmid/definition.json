@@ -1,0 +1,1 @@
+{"name": "Assemble Plasmid", "category": "Cloning", "inputs": [{"name": "Fragment", "part": false, "array": true, "routing": "F"}], "outputs": [{"name": "Assembled Plasmid", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

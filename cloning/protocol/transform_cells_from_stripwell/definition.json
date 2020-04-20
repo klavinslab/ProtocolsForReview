@@ -1,0 +1,1 @@
+{"name": "Transform Cells from Stripwell", "category": "Cloning", "inputs": [{"name": "Plasmid", "part": true, "array": false, "routing": "P"}, {"name": "Comp Cells", "part": true, "array": null, "routing": "C"}], "outputs": [{"name": "Transformed E Coli", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

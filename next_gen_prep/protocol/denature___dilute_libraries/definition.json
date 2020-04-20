@@ -1,0 +1,1 @@
+{"name": "Denature & Dilute Libraries", "category": "Next Gen Prep", "inputs": [{"name": "DNA Library Array", "part": null, "array": true, "routing": null}, {"name": "Percentage PhiX", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Pooled DNA Library", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

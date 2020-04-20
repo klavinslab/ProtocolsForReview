@@ -1,0 +1,1 @@
+{"name": "Flow Cytometry from Overnight", "category": "Yeast", "inputs": [{"name": "Yeast Overnight", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Cytometry Plate", "part": true, "array": false, "routing": "P"}], "on_the_fly": false}

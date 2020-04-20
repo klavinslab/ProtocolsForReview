@@ -1,0 +1,1 @@
+{"name": "Apply Experimental Conditions", "category": "OBSOLETE", "inputs": [{"name": "Culture Plate", "part": null, "array": true, "routing": "P"}, {"name": "Experimental Condition", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Experimental Plate", "part": null, "array": true, "routing": "P"}], "on_the_fly": null}

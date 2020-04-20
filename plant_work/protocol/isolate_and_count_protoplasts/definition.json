@@ -1,0 +1,1 @@
+{"name": "Isolate and count protoplasts", "category": "Plant Work", "inputs": [{"name": "Digesting Cells", "part": false, "array": false, "routing": "D"}, {"name": "Discard tubes", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Protoplasts", "part": null, "array": null, "routing": "D"}], "on_the_fly": false}

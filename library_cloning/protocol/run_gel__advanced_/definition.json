@@ -1,0 +1,1 @@
+{"name": "Run Gel (Advanced)", "category": "Library Cloning", "inputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}, {"name": "Gel", "part": true, "array": null, "routing": "L"}], "outputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}], "on_the_fly": null}

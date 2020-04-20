@@ -1,0 +1,1 @@
+{"name": "Pour Plates", "category": "Reagents", "inputs": [{"name": "Media", "part": null, "array": null, "routing": "A"}], "outputs": [{"name": "Plate Batch", "part": true, "array": null, "routing": "A"}], "on_the_fly": null}

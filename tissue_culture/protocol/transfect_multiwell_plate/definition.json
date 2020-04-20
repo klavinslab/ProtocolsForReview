@@ -1,0 +1,1 @@
+{"name": "Transfect Multiwell Plate", "category": "Tissue Culture", "inputs": [{"name": "Cells", "part": false, "array": false, "routing": "C"}, {"name": "Transfection_JSON", "part": false, "array": false, "routing": null}], "outputs": [], "on_the_fly": false}

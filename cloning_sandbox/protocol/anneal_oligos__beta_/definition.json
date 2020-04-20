@@ -1,0 +1,1 @@
+{"name": "Anneal Oligos (Beta)", "category": "Cloning Sandbox", "inputs": [{"name": "Forward Primer", "part": null, "array": null, "routing": "F"}, {"name": "Reverse Primer", "part": null, "array": null, "routing": "R"}], "outputs": [{"name": "Fragment", "part": null, "array": null, "routing": "G"}], "on_the_fly": null}

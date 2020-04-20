@@ -1,0 +1,1 @@
+This operation check the confluencies of all available tissue culture plates in the lab. This operation should be run **daily**. It outputs an abstract item called *Cell Pool* which represents the number of cells available for Active Cell Lines.

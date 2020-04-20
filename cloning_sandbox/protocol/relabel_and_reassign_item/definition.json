@@ -1,0 +1,1 @@
+{"name": "Relabel and reassign item", "category": "Cloning Sandbox", "inputs": [{"name": "Input", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Output", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

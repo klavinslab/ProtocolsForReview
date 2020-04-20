@@ -1,0 +1,1 @@
+{"name": "Concentrate Protein", "category": "Protein Purification", "inputs": [{"name": "Protein", "part": null, "array": null, "routing": "PR"}], "outputs": [{"name": "Protein", "part": null, "array": null, "routing": "PR"}], "on_the_fly": null}

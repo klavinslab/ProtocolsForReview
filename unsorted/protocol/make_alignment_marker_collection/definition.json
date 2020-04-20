@@ -1,0 +1,1 @@
+{"name": "Make Alignment Marker Collection", "category": "Unsorted", "inputs": [{"name": "Same size as this collection", "part": null, "array": null, "routing": "C"}, {"name": "Item", "part": null, "array": null, "routing": "I"}], "outputs": [{"name": "Batch", "part": null, "array": null, "routing": "B"}], "on_the_fly": null}

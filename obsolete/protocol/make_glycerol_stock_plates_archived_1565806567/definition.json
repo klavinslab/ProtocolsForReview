@@ -1,0 +1,1 @@
+{"name": "Make Glycerol Stock Plates archived 1565806567", "category": "OBSOLETE", "inputs": [{"name": "Culture Plate", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Glycerol Stock Plate", "part": null, "array": true, "routing": "GP"}], "on_the_fly": null}

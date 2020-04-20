@@ -1,0 +1,1 @@
+{"name": "Streak Plate from Competent Cell", "category": "Yeast", "inputs": [{"name": "Yeast Strain", "part": false, "array": false, "routing": "YS"}], "outputs": [{"name": "Streak Plate", "part": true, "array": false, "routing": "YS"}], "on_the_fly": false}

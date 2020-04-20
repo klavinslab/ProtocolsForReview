@@ -1,0 +1,1 @@
+{"name": "qPCR Preparation", "category": "qPCR", "inputs": [{"name": "Indexed DNA Library", "part": true, "array": null, "routing": "cDNA"}], "outputs": [{"name": "Indexed DNA Library", "part": true, "array": null, "routing": "cDNA"}], "on_the_fly": null}

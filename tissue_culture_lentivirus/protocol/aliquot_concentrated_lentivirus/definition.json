@@ -1,0 +1,1 @@
+{"name": "Aliquot Concentrated Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Concentrated Harvest", "part": false, "array": false, "routing": "LV"}], "outputs": [{"name": "Concentrated Aliquot", "part": false, "array": true, "routing": "LV"}], "on_the_fly": false}

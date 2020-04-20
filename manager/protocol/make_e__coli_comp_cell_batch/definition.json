@@ -1,0 +1,1 @@
+{"name": "Make E. coli Comp Cell Batch", "category": "Manager", "inputs": [{"name": "Num Cells", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Batch", "part": null, "array": null, "routing": "B"}], "on_the_fly": null}

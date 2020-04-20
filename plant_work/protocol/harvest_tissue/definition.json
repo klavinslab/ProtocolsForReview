@@ -1,0 +1,1 @@
+{"name": "Harvest tissue", "category": "Plant Work", "inputs": [{"name": "Plants", "part": null, "array": null, "routing": "P"}, {"name": "Tissue to harvest", "part": null, "array": null, "routing": null}, {"name": "Dry after harvest?", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Tissue", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

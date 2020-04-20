@@ -1,0 +1,1 @@
+{"name": "Rehydrate Primer", "category": "Cloning", "inputs": [{"name": "Primer", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Primer Aliquot", "part": false, "array": false, "routing": "P"}, {"name": "Primer Stock", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

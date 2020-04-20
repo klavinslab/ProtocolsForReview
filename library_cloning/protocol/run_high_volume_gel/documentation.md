@@ -1,0 +1,1 @@
+For extraction of a large volume of the same DNA fragment. Run is broken into 45min units. At each 45min timepoint an intermediate gel image is taken.

@@ -1,0 +1,1 @@
+Phosphorylate a PCR fragment for use in a ligase reaction

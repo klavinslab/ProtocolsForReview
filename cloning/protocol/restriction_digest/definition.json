@@ -1,0 +1,1 @@
+{"name": "Restriction Digest", "category": "Cloning", "inputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}, {"name": "Enzymes", "part": false, "array": true, "routing": "E"}], "outputs": [{"name": "Digest", "part": true, "array": false, "routing": "F"}], "on_the_fly": false}

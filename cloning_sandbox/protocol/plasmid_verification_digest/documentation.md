@@ -1,0 +1,1 @@
+Plasmid stock items can be digested with any restriction Enzymes we have in stock. Input expected band sizes, with commas separating each band length. This protocol has a 45 minute wait built into it. 

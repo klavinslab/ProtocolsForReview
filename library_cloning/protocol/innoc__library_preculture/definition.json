@@ -1,0 +1,1 @@
+{"name": "Innoc. Library Preculture", "category": "Library Cloning", "inputs": [{"name": "Yeast Plate", "part": true, "array": null, "routing": "YS"}, {"name": "number of transformations (up to 6)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Yeast Culture", "part": null, "array": null, "routing": "YS"}], "on_the_fly": null}

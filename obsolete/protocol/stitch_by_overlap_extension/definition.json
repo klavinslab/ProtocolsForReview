@@ -1,0 +1,1 @@
+{"name": "Stitch by Overlap Extension", "category": "OBSOLETE", "inputs": [{"name": "Fragment", "part": null, "array": true, "routing": "F"}], "outputs": [{"name": "Fragment", "part": null, "array": false, "routing": "F"}], "on_the_fly": null}

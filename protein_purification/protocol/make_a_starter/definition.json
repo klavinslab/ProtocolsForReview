@@ -1,0 +1,1 @@
+{"name": "Make a Starter", "category": "Protein Purification", "inputs": [{"name": "Plasmid", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Overnight", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

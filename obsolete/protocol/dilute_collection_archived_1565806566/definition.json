@@ -1,0 +1,1 @@
+{"name": "Dilute Collection archived 1565806566", "category": "OBSOLETE", "inputs": [{"name": "Culture Plate", "part": null, "array": true, "routing": "P"}, {"name": "Dilution", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Diluted Plate", "part": null, "array": true, "routing": "P"}], "on_the_fly": null}

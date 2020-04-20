@@ -1,0 +1,1 @@
+{"name": "CPCR result to Fragment Adapter", "category": "Yeast Trash", "inputs": [{"name": "Strain", "part": true, "array": true, "routing": "S"}], "outputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}], "on_the_fly": null}

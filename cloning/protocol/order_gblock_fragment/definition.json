@@ -1,0 +1,1 @@
+{"name": "Order gBlock Fragment", "category": "Cloning", "inputs": [{"name": "Bases", "part": false, "array": false, "routing": null}], "outputs": [{"name": "gBlock Fragment", "part": false, "array": false, "routing": "F"}], "on_the_fly": false}

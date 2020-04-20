@@ -1,0 +1,1 @@
+{"name": "Assemble Plasmid w/ Backbone", "category": "Cloning Sandbox", "inputs": [{"name": "Backbone", "part": false, "array": false, "routing": "B"}, {"name": "Insert", "part": null, "array": true, "routing": "I"}], "outputs": [{"name": "Assembled Plasmid", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

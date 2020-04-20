@@ -1,0 +1,1 @@
+{"name": "RNA Extraction", "category": "RNA", "inputs": [{"name": "Yeast Pellet", "part": false, "array": false, "routing": null}, {"name": "Lysis Method", "part": false, "array": false, "routing": null}, {"name": "RNA Kit", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Total RNA", "part": false, "array": false, "routing": null}], "on_the_fly": false}

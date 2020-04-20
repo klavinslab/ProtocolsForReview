@@ -1,0 +1,1 @@
+{"name": "Transplant seedlings", "category": "Plant Work", "inputs": [{"name": "Pot", "part": null, "array": null, "routing": "P"}, {"name": "Pot fate", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Tray", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

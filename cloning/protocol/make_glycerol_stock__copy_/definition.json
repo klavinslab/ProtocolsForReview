@@ -1,0 +1,1 @@
+{"name": "Make Glycerol Stock (copy)", "category": "Cloning", "inputs": [], "outputs": [{"name": "Plasmid", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

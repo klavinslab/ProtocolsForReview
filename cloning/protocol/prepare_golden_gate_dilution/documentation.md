@@ -1,0 +1,1 @@
+Prepares 50µl of 40fm per µl dilution for use in Goldengate reactions. 

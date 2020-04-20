@@ -1,0 +1,1 @@
+{"name": "Ligate Adapters", "category": "Illumina NGS", "inputs": [{"name": "Adenylated cDNA Library", "part": true, "array": null, "routing": "cDNA"}, {"name": "Illumina Adapter Plate", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Indexed DNA Library", "part": true, "array": null, "routing": "cDNA"}], "on_the_fly": null}

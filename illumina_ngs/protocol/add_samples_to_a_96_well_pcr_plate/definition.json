@@ -1,0 +1,1 @@
+{"name": "Add Samples to a 96 Well PCR Plate", "category": "Illumina NGS", "inputs": [{"name": "cDNA Library", "part": null, "array": null, "routing": "cDNA"}], "outputs": [{"name": "New output", "part": true, "array": null, "routing": "cDNA"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+This protocol stitches several `Fragments` or `Primers` together in a PCR reaction.

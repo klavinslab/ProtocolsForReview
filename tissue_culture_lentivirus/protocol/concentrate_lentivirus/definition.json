@@ -1,0 +1,1 @@
+{"name": "Concentrate Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Lentivirus Harvest", "part": false, "array": false, "routing": "LV"}], "outputs": [{"name": "Concentrated Lentivirus Harvest", "part": false, "array": false, "routing": "LV"}], "on_the_fly": false}

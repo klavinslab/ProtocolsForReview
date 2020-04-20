@@ -1,0 +1,1 @@
+{"name": "Store Phosphorylated Fragment", "category": "Cloning Sandbox", "inputs": [{"name": "Incubator", "part": null, "array": null, "routing": "S"}], "outputs": [{"name": "Freezer", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

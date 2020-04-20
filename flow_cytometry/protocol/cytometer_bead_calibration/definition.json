@@ -1,0 +1,1 @@
+{"name": "Cytometer Bead Calibration", "category": "Flow Cytometry", "inputs": [{"name": "calibration beads", "part": null, "array": null, "routing": "B"}], "outputs": [], "on_the_fly": null}

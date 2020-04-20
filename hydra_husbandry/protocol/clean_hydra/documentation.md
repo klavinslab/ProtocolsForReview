@@ -1,0 +1,1 @@
+The hydra should be cleaned between 45 and 75 minutes after every feeding.

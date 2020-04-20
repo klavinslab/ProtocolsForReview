@@ -1,0 +1,1 @@
+{"name": "Blank Block", "category": "Control Blocks", "inputs": [{"name": "Input", "part": false, "array": false, "routing": "X"}], "outputs": [{"name": "Output", "part": null, "array": null, "routing": "X"}], "on_the_fly": false}

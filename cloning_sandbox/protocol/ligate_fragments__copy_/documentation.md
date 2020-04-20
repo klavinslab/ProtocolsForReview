@@ -1,0 +1,1 @@
+Clone a single phosphorylated fragment into a digested backbone vector or PCR fragment. 

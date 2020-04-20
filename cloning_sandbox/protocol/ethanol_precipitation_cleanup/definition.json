@@ -1,0 +1,1 @@
+{"name": "Ethanol Precipitation Cleanup", "category": "Cloning Sandbox", "inputs": [{"name": "DNA", "part": null, "array": null, "routing": "P"}], "outputs": [{"name": "Purified Plasmid", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

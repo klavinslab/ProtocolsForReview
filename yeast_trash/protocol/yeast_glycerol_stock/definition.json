@@ -1,0 +1,1 @@
+{"name": "Yeast Glycerol Stock", "category": "Yeast Trash", "inputs": [{"name": "Yeast", "part": false, "array": false, "routing": "YS"}], "outputs": [{"name": "Yeast", "part": false, "array": false, "routing": "YS"}], "on_the_fly": false}

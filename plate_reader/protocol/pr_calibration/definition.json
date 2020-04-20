@@ -1,0 +1,1 @@
+{"name": "PR Calibration", "category": "Plate Reader", "inputs": [{"name": "Optical Particles", "part": null, "array": null, "routing": "OP"}, {"name": "Fluorescent Salt", "part": null, "array": null, "routing": "FS"}], "outputs": [{"name": "Calibration Plate", "part": null, "array": null, "routing": "PR"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Mix Cultures", "category": "Yeast Display", "inputs": [{"name": "Component Yeast Culture", "part": null, "array": true, "routing": null}, {"name": "Proportions", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Yeast Culture", "part": null, "array": null, "routing": null}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Make QX Alignment", "category": "Manager", "inputs": [{"name": "Alignment Marker", "part": null, "array": null, "routing": "A"}, {"name": "Mineral Oil", "part": null, "array": null, "routing": "B"}], "outputs": [{"name": "Stripwell", "part": true, "array": null, "routing": "C"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Assign Synthetic DNA for Kit", "category": "OLASimple", "inputs": [{"name": "Kit Number", "part": false, "array": false, "routing": null}], "outputs": [{"name": "Sample 1", "part": false, "array": false, "routing": "S"}, {"name": "Sample 2", "part": false, "array": false, "routing": "S"}], "on_the_fly": false}

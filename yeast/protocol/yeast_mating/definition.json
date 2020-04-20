@@ -1,0 +1,1 @@
+{"name": "Yeast Mating", "category": "Yeast", "inputs": [{"name": "Strain 1", "part": null, "array": null, "routing": "YS"}, {"name": "Strain 2", "part": null, "array": null, "routing": "Y"}], "outputs": [{"name": "Overnight", "part": null, "array": null, "routing": "S"}], "on_the_fly": null}

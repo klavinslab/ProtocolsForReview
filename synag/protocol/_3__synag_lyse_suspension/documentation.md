@@ -1,0 +1,1 @@
+#A large volume overnight culture is pelleted and lysed, ready for library prep. 

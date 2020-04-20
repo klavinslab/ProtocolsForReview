@@ -1,0 +1,1 @@
+{"name": "Combine Plasmids", "category": "Yeast Trash", "inputs": [{"name": "Stocks", "part": null, "array": true, "routing": "Ps"}, {"name": "Nanograms (comma- or space-separated list of nanograms of each stock to use)", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Stock", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

@@ -1,0 +1,1 @@
+{"name": "Make Imidazole Aliquots", "category": "Protein Purification", "inputs": [], "outputs": [{"name": "Imidazole Aliquot", "part": null, "array": null, "routing": "I"}], "on_the_fly": null}

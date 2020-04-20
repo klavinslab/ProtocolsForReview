@@ -1,0 +1,1 @@
+{"name": "Place plants in torture chamber", "category": "Plant Work", "inputs": [{"name": "Plants", "part": null, "array": false, "routing": "P"}], "outputs": [{"name": "Victims", "part": null, "array": false, "routing": "P"}], "on_the_fly": null}

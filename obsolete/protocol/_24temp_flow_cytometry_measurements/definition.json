@@ -1,0 +1,1 @@
+{"name": "24TEMP_Flow Cytometry Measurements", "category": "OBSOLETE", "inputs": [{"name": "96_deep_well", "part": true, "array": false, "routing": null}], "outputs": [{"name": "Data", "part": true, "array": false, "routing": null}], "on_the_fly": false}

@@ -1,0 +1,1 @@
+{"name": "Make Maxiprep", "category": "Cloning", "inputs": [{"name": "Overnight", "part": null, "array": null, "routing": "P"}, {"name": "Elution Buffer", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Stock", "part": null, "array": null, "routing": "P"}], "on_the_fly": null}

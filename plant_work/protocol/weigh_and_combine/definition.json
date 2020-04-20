@@ -1,0 +1,1 @@
+{"name": "Weigh and combine", "category": "Plant Work", "inputs": [{"name": "Plants", "part": null, "array": true, "routing": "P"}, {"name": "Control group?", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Pool", "part": null, "array": null, "routing": "Q"}], "on_the_fly": null}

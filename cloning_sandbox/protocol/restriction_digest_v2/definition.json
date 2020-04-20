@@ -1,0 +1,1 @@
+{"name": "Restriction digest v2", "category": "Cloning Sandbox", "inputs": [{"name": "Input DNA", "part": null, "array": null, "routing": "P"}, {"name": "Enzymes", "part": null, "array": true, "routing": "E"}], "outputs": [{"name": "Digest", "part": false, "array": null, "routing": "P"}], "on_the_fly": null}

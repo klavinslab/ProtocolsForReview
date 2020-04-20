@@ -1,0 +1,1 @@
+{"name": "Run Pre-poured Gel", "category": "Next Gen Prep", "inputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}, {"name": "Gel Type", "part": null, "array": null, "routing": null}, {"name": "Percentage", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Fragment", "part": true, "array": null, "routing": "F"}], "on_the_fly": null}

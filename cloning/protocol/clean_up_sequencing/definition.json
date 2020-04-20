@@ -1,0 +1,1 @@
+{"name": "Clean Up Sequencing", "category": "Cloning", "inputs": [{"name": "Stock", "part": null, "array": null, "routing": "P"}, {"name": "Plate", "part": null, "array": null, "routing": "P"}], "outputs": [], "on_the_fly": null}

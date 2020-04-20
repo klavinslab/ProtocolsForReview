@@ -1,0 +1,1 @@
+{"name": "SynAg Surface Display", "category": "SynAg", "inputs": [{"name": "Overnight", "part": null, "array": null, "routing": "S"}, {"name": "Sample_role", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

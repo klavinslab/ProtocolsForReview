@@ -1,0 +1,1 @@
+{"name": "Agro overnight from streak plate", "category": "Agrobacterium work", "inputs": [{"name": "Plate", "part": false, "array": false, "routing": "A"}], "outputs": [{"name": "Overnight", "part": false, "array": false, "routing": "A"}], "on_the_fly": false}

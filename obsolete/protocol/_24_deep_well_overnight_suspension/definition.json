@@ -1,0 +1,1 @@
+{"name": "24-Deep Well Overnight Suspension", "category": "OBSOLETE", "inputs": [{"name": "Plate", "part": true, "array": false, "routing": null}], "outputs": [{"name": "96_deep_well", "part": true, "array": false, "routing": null}], "on_the_fly": false}

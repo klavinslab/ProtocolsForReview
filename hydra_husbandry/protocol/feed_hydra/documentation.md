@@ -1,0 +1,1 @@
+Feeds all Hydra strains in the lab with brine shrimp.

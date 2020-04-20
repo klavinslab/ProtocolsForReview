@@ -1,0 +1,1 @@
+{"name": "Purify Gel Slice (NGS)", "category": "Next Gen Prep", "inputs": [{"name": "Gel", "part": false, "array": null, "routing": "G"}], "outputs": [{"name": "Fragment", "part": null, "array": null, "routing": "G"}], "on_the_fly": false}

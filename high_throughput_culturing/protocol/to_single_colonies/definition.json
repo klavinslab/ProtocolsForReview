@@ -1,0 +1,1 @@
+{"name": "To Single Colonies", "category": "High Throughput Culturing", "inputs": [{"name": "Yeast Inoculum", "part": null, "array": false, "routing": "C"}, {"name": "Media", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Plate", "part": null, "array": null, "routing": "C"}], "on_the_fly": null}

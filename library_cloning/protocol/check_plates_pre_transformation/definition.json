@@ -1,0 +1,1 @@
+{"name": "Check Plates Pre-transformation", "category": "Library Cloning", "inputs": [{"name": "Control Plate", "part": true, "array": null, "routing": "CP"}, {"name": "Growth Plate", "part": true, "array": null, "routing": "GP"}], "outputs": [{"name": "Growth Plate", "part": true, "array": null, "routing": "GP"}], "on_the_fly": null}

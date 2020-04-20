@@ -1,0 +1,1 @@
+{"name": "Yeast Transformation", "category": "Yeast", "inputs": [{"name": "Genetic Material", "part": false, "array": false, "routing": "I"}, {"name": "Parent", "part": false, "array": false, "routing": "PS"}], "outputs": [{"name": "Transformation", "part": false, "array": false, "routing": "T"}], "on_the_fly": false}

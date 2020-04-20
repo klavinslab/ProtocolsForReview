@@ -1,0 +1,1 @@
+{"name": "Harvest Lentivirus", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Lentivirus Plate", "part": false, "array": false, "routing": "LV"}], "outputs": [{"name": "Lentivirus Harvest", "part": false, "array": false, "routing": "LV"}], "on_the_fly": false}

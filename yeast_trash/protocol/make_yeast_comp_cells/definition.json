@@ -1,0 +1,1 @@
+{"name": "Make Yeast Comp Cells", "category": "Yeast Trash", "inputs": [{"name": "Flask", "part": false, "array": false, "routing": "YS"}], "outputs": [{"name": "Comp Cell", "part": false, "array": false, "routing": "YS"}], "on_the_fly": false}

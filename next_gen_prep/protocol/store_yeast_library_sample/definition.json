@@ -1,0 +1,1 @@
+{"name": "Store Yeast Library Sample", "category": "Next Gen Prep", "inputs": [{"name": "Yeast Culture", "part": null, "array": null, "routing": "Y"}], "outputs": [{"name": "Stored sample rep 1", "part": null, "array": null, "routing": "Y"}, {"name": "Stored sample rep 2", "part": null, "array": null, "routing": "Y"}], "on_the_fly": null}

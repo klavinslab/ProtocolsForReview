@@ -1,0 +1,1 @@
+{"name": "Rename Category", "category": "Manager", "inputs": [{"name": "Current Category Name", "part": null, "array": null, "routing": null}, {"name": "New Category Name", "part": null, "array": null, "routing": null}], "outputs": [], "on_the_fly": null}

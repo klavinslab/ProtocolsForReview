@@ -1,0 +1,1 @@
+{"name": "Plate Agar Stab", "category": "Cloning", "inputs": [{"name": "Agar Stab", "part": false, "array": false, "routing": "P"}, {"name": "Growth Temperature", "part": null, "array": null, "routing": null}], "outputs": [{"name": "Plasmid Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false}

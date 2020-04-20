@@ -1,0 +1,1 @@
+{"name": "rRNA Deplete and Fragment RNA", "category": "Illumina NGS", "inputs": [{"name": "Diluted Total RNA", "part": true, "array": null, "routing": "BRP"}], "outputs": [{"name": "Depleted RNA Frags", "part": true, "array": null, "routing": "DFP"}], "on_the_fly": null}
